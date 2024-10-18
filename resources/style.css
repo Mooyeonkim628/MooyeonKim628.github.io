@@ -520,7 +520,7 @@ body {
 }
 
 .dark-mode .personal-interests-section {
-    background-color: #1e1e1e;
+    background-color: #000000;
     color: #e0e0e0;
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
 }
