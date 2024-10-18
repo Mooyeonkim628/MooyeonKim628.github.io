@@ -520,8 +520,24 @@ body {
 }
 
 .dark-mode .personal-interests-section {
-    background-color: #000000;
+    background-color: #1e1e1e;
+    color: #e0e0e0;
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+.dark-mode .personal-interests-section h2,
+.dark-mode .personal-interests-section h3,
+.dark-mode .personal-interests-section p {
+    color: #e0e0e0;
+}
+
+/* Optional: Style other elements like links */
+.dark-mode .personal-interests-section a {
+    color: #9ecfff;
+}
+
+.dark-mode .personal-interests-section a:hover {
+    color: #e0e0e0;
 }
 
 .dark-mode .contact-section {
