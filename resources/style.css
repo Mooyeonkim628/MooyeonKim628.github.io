@@ -519,6 +519,11 @@ body {
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
 }
 
+.dark-mode .personal-interests-section {
+    background-color: #000000;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
 .dark-mode .contact-section {
     background-color: #000000;
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
