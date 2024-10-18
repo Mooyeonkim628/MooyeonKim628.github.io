@@ -542,6 +542,16 @@ body {
 .dark-mode .skill-card p,
 .dark-mode .contact-section h2,
 .dark-mode .contact-section p,
+.dark-mode .personal-interests-section,
+.dark-mode .personal-interests-section p,
+.dark-mode .personal-interests-container, 
+.dark-mode .personal-interests-card, 
+.dark-mode .personal-interests-card img, 
+.dark-mode .personal-interests-card h3, 
+.dark-mode .personal-interests-card p,
+.dark-mode .personal-interests-section,
+.dark-mode .personal-interests-section h2,
+.dark-mode .personal-interests-section h3, 
 .dark-mode .footer {
     color: #e0e0e0;
 }
