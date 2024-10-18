@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
       var formData = new FormData(this);
 
-      fetch('https://script.google.com/macros/s/AKfycbyelApAXzdBAkTRPbOjD7B3cG73Mrjy6lyzCuRPpscM6mK3XFP6zZIov_BKxvtCCjFbFA/exec', { //use app script deploymet Id here
+      fetch('https://script.google.com/macros/s/AKfycbzsLA-jV03-A0fejR6nXZ61Bz8qLeTR56XsBugKtu8TRs6yjFjilAJbzbcLPznbCS17SQ/exec', { //use app script deploymet Id here
           method: 'POST',
           body: formData
       })
