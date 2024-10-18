@@ -566,6 +566,11 @@ body {
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
 }
 
+.dark-mode .personal-interests-card {
+    background-color: #333;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
 .dark-mode .download-btn,
 .dark-mode .submit-btn {
     background-color: #333;
