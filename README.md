@@ -1,22 +1,21 @@
 
-# Mooyeon Kim's Portfolio 🌐  
+# Mooyeon Kim's Portfolio  
 
 Welcome to my personal portfolio. This web showcases my work, skills, and experience as a developer. It is designed to provide an overview of who I am and what I do, with interactive sections for easy navigation and a contact form for inquiries.
 
 ---
 
-## 🌟 Features
-
-- **Dark Mode Toggle:**  
-- **Responsive Navigation:**  
-- **Project Showcase:**  
-- **Contact Form with Google Apps Script Integration:**  
-- **Social Links:**  
-
+## Features
+ 
+- **Responsive Navigation**  
+- **Project Showcase**  
+- **Contact Form with Google Apps Script Integration**  
+- **Social Links**  
+- **Dark Mode Toggle** 
 ---
 
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - **HTML5, CSS3, JavaScript**  
 - **Bootstrap Icons & FontAwesome** for icons  
@@ -28,7 +27,7 @@ Welcome to my personal portfolio. This web showcases my work, skills, and experi
 
 
 
-## 📬 Contact
+## Contact
 
 Feel free to reach out to me through the contact form on the website or via my social media links:
 
@@ -38,6 +37,6 @@ Feel free to reach out to me through the contact form on the website or via my s
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
